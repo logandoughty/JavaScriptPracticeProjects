@@ -13,3 +13,4 @@ The current version has:
                 -   Password does not contain these special characters: - + ! $ ^ & * ; , (whitespace)
                 -   Does not contain words such as 'SELECT', 'INSERT', 'DELETE' , 'UPDATE', 'FROM', 'WHERE', 'OR', 'AND', 'SET'
                     (My Current and possibly naive attempt at avoiding/reducing SQL injection attacks via Client-Side Validation).
+
