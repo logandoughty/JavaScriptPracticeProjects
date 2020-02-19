@@ -4,10 +4,8 @@
     Last Updated: 19/02/2020
     Title: New User Form Validation - Beginner
     Revision : V1.0
-    Completion: TBC
     Description:
         Script to check form validation is correct for new user sign up.
-        Current State - incomplete
         Current Support:
             -   Validation checks that email is in a valid email format
             -   Password is checked that:
