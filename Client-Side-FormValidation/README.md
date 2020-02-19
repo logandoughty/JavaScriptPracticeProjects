@@ -1,9 +1,9 @@
-# Readme
+# Readme #
 
 This Mini Project Exercise simulates form validation on a sign up form.
 The main components are an email input, password input and a password repeat verification input.
 
-The current version has:       
+## The current version has: ##      
 - Validation checks that email is in a valid email format
 - Password validation includes:
   - Does not exceded Maximum Character Limit specified as Global constant
