@@ -1,2 +1,5 @@
 # JavaScriptPracticeProjects
-Mini web projects built only with HTML5, CSS &amp; vanilla JavaScript.
+Main Repository of Personal Practice Projects for vanilla JavaScript.
+
+# Project List
+1. Client-Side form validation (Page Sign-Up)
