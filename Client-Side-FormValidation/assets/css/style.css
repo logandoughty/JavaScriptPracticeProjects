@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+    padding: 5%;
+}
+form {
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-left: 5%;
+    padding-bottom: 30px;
+}
+
+.form-group {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.submit {
+    margin: 0 5%;
+}
+
+.container {
+    width: 80%;
+    margin: 40% 0 0;
+    padding: 10%;
+    box-shadow: 0 0 3px 5px #e7e7e7;
+}
+
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+    .container {
+        margin: 20% 0 0;
+        padding: 3%;
+    }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+    .container {
+        margin: 30% 0 0;
+        padding: 3%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    .container {
+        margin: 5% 0 0;
+        padding: 3%;
+    }
+    
+}
